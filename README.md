@@ -1,10 +1,5 @@
 <div align="center">
   <h1>Salary Prediction using Polynomial Regression</h1>
-  <p><i>A Machine Learning approach to predicting employee salaries based on position level.</i></p>
-
-  [![Python](https://img.shields.io/badge/Python-3.8+-yellow.svg?style=for-the-badge&logo=python&logoColor=white)](#)
-  [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=for-the-badge&logo=jupyter)](#)
-  [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
 </div>
 
 ---
