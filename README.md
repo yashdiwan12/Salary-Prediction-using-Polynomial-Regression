@@ -92,33 +92,3 @@ The key **advantage of Polynomial Regression** for this dataset is its ability t
 ├── README.md                         # Project documentation
 ├── polynomial_regression_curve.png   # Model fit curve plot
 └── position_level_vs_salary_raw.png  # Raw data visualization plot
-```
-
-## How to Run
-
-```bash
-# 1. Place Position_Salaries.csv (downloaded from Kaggle) in this folder
-# 2. Run the notebook
-jupyter notebook Assignment-3.ipynb
-
-# OR run the script directly
-python Assignment-3.py
-```
-
----
-
-## Student Details
-
-| Field | Details |
-|---|---|
-| **Name** | Yash Diwan |
-| **Registration Number** | 23BCE10154 |
-| **Application Number** | IN26010736 |
-| **Batch Number** | 2B |
-| **Email ID** | yash.23bce10154@vitbhopal.ac.in |
-
----
-
-<div align="center">
-  <p>Made for predictive salary analytics</p>
-</div>
